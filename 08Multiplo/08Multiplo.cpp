@@ -28,7 +28,7 @@ if (x%y==0)
 }
 else
 {
-    cout<<x<<"Non e' multiplo di "<<y<<endl;
+    cout<<x<<" non e' multiplo di "<<y<<endl;
 }
 return 0;
 }
